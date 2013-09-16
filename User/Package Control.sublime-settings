@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CakePHP (Native)",
+		"CodeIgniter Snippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Gist",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeXiki",
+		"Xdebug",
+		"ZenGarden"
+	]
+}

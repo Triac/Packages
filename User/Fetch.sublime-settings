@@ -1,0 +1,13 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"CI_bootstrapped": "https://github.com/triacdev/MyCodeIgniter/archive/master.zip",
+		"bootstrap": "https://github.com/triacdev/bootstrap/archive/master.zip",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"magento": "https://github.com/magento/taf/archive/master.zip"
+	}
+}
